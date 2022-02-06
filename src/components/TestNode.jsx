@@ -4,14 +4,11 @@ import React from "react";
 
 function testNode() {
   return (
-    <div className="App">
-          
-<p>A simple React app.....</p>
-        <form action="../../post" method="post" 
-              className="form">
-          <button type="submit">Connected?</button>
-        </form>
+    <body>
+    <div class="container">
+    <p>This will become a new page...</p>
     </div>
+    </body>
   );
 }
   
