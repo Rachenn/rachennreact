@@ -15,10 +15,8 @@ function Home() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">Home</h1>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
+              Welcome to my playground for React! This is where I learn and to demonstrate my skills.
+              This will forever be in beta, but enjoy poking around, finding the multiple bugs that I've made homes for.
             </p>
           </div>
         </div>

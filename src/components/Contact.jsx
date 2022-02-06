@@ -12,14 +12,13 @@ function Contact() {
               alt=""
             />
           </div>
-          <div class="col-lg-5">
+          <div class="justify-content-md-center">
             <h1 class="font-weight-light">Contact</h1>
-            <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
-            </p>
+            <p>Please feel free to get in touch with me via LinkedIn or have a look at my Git Repositories below.</p>
+            {/* <a href="https://twitter.com/rachenest"><i class="fa fa-twitter fa-2x"></i></a> */}
+            <ul>
+            <a href="https://github.com/Rachenn"><i class="fa fa-github fa-2x"></i></a></ul>
+            <ul><a href="https://www.linkedin.com/in/rachel-moore-70929042/"><i class="fa fa-linkedin fa-2x"></i></a></ul>
           </div>
         </div>
       </div>
