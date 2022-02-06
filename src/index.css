@@ -145,11 +145,6 @@ nav {
 	color: white;
 }
 
-nav a:hover {
-	background-color: white;
-	color: #323045;
-}
-
 .socialDiv li {
 	float: right;
 }
