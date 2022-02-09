@@ -1,4 +1,3 @@
-
 export { default as Navigation } from "./Navigation";
 export { default as Footer } from "./Footer";
 export { default as Home } from "./Home";
@@ -7,4 +6,5 @@ export { default as Contact } from "./Contact";
 export { default as Blog } from "./blog/Blog";
 export { default as Posts } from "./blog/Posts";
 export { default as Post } from "./blog/Post";
-export { default as TestNode } from "./TestNode";
+export { default as Experience } from "./experience/Experience";
+export { default as WorkExp} from "./experience/WorkExp";

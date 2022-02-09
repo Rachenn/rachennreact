@@ -19,26 +19,45 @@ code {
 html {
 	scroll-behavior: smooth;
 }
-/* 
-body {
 
-} */
-
-.jumbotron {
-	background: url(https://images.unsplash.com/photo-1439397629354-e2e3dea8f6f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+.home { 
+  background: url("./components/content/rachel.jpeg");
 	background-size: cover;
-	padding: 9rem;
-	height: 50%;
+  position: absolute;
+	height: 90%;
 	width: 100%;
-    display: block;
-	background-position: center;
-	background-color: #323045;
 
-
-	font-family: 'Teko', sans-serif;
+	/* font-family: 'Teko', sans-serif; */
 	color: white;
 	text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 	text-align: center;	
+}
+
+.experience {
+	border: 1px solid white;
+	color: white;
+	z-index: -1;
+	max-width: 95%;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	font-size: 1em;
+}
+
+/* .experience .expList {
+	border-right: 1px solid white;
+} */
+
+.experience a {
+	color: white;
+}
+.experience a:hover{
+	color: #4287f5;
+	text-decoration: none;
+}
+
+.WorkExp {
+	border-left: 1px solid white;
+	padding-left: 4rem;
 }
 
 #header h1 {
@@ -57,14 +76,14 @@ hr {
 }
 
 /* Adjusts the link clicking */
-h2::before {
+/* h2::before {
 	display: block; 
 	content: " "; 
 	margin-top: -10rem; 
 	height: 10rem; 
 	visibility: hidden; 
 	pointer-events: none;
-}
+} */
 
 #picFrame {
 	max-width: 100%;
@@ -80,11 +99,11 @@ h2::before {
 	font-size: 1em;
 }
 
-.container h2 {
+/* .container h2 {
 	text-align: center;
 	padding: 1rem auto;
 	font-size: 4em;
-}
+} */
 
 .portfolio {
 	text-align: center;

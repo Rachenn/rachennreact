@@ -1,0 +1,121 @@
+[
+  {
+    "title": "QuickFlix",
+    "jobTitle": "Membership Services Officer",
+    "dateStart": "2012-08-01T04:00:00.000Z",
+    "dateEnd": "2013-04-01T04:00:00.000Z",
+    "tasks":["Answer multiple phone calls",
+      "Reply to multiple emails",
+      "Customer service",
+      "Maintain KPI",
+      "Computer use",
+      "Technical Support",
+      "Communication",
+      "Some administration duties",
+      "Troubleshooting"],
+    "slug": "quickflix",
+    "content": "This was my first experience providing tech support to users and helped me gain experience with customer service."
+  },
+  {
+    "title": "Metals X Limited",
+    "jobTitle": "IT Support Officer",
+    "dateStart": "2014-01-01T04:00:00.000Z",
+    "dateEnd": "2014-06-01T04:00:00.000Z",
+    "tasks":[
+      "Handling tickets",
+      "Re-installing Windows 7 PCs",
+      "Creating new users in AD and Microsoft Exchange",
+      "Assisted with domain migration",
+      "Travelling to site for face-to-face support",
+      "Providing helpdesk support",
+      "Handling back-up tapes",
+      "Organizing server room"
+      ],
+    "slug": "metalsx",
+    "content": "This job gave me my first exposure to the mining industry, I was given the opportunity to fly out to mine sites and provide ICT support."
+  },
+  {
+    "title": "Truck Centre WA",
+    "jobTitle": "IT Assistant",
+    "dateStart": "2013-04-01T04:00:00.000Z",
+    "dateEnd": "2013-10-01T04:00:00.000Z",
+    "tasks":["Providing level 1 technical support",
+      "Re-building Windows PCs",
+      "Creating new users in Active Directory and Microsoft Exchange",
+      "Replacing hardware in PCs",
+      "Data-Entry"
+      ],
+    "slug": "truckcentrewa",
+    "content": "This was my first ICT support role which helped me get into the ICT industry."
+  },
+  {
+    "title": "Kinetic IT",
+    "jobTitle": "Senior Service Desk Technician",
+    "dateStart": "2014-06-01T04:00:00.000Z",
+    "dateEnd": "2018-06-01T04:00:00.000Z",
+    "tasks":[
+      "Providing technical support via phone call, emails and in person",
+      "Working on a busy service desk",
+      "Lodging tickets and escalating as needed",
+      "Remote support",
+      "Creating new users in active directory",
+      "Resetting passwords and unlocking accounts",
+      "Following and creating work instructions",
+      "Training new technicians",
+      "Troubleshooting incidents",
+      "Lodging team feedback",
+      "Assisted with upgrading business to Office 365 and Office 2016",
+      "Assisted with the migration to RDS/MFA (remote technology solutions)",
+      "Installing software",
+      "Providing customer service",
+      "Provided support for teammates",
+      "Participate in team activities",
+      "Working on a 24/7 shift-based roster",
+      "Being able to quickly adjust to new sites when being moved to new contracts"
+      ],
+    "slug": "kineticit",
+    "content": "Working at Kinetic IT gave me the opportunity to work on large and smaller service desks, I provided ICT support at; Department of Education, Landgate and BHP."
+  },
+  {
+    "title": "Perth College",
+    "jobTitle": "ICT Support Officer",
+    "dateStart": "2018-06-01T04:00:00.000Z",
+    "dateEnd": "2020-08-01T04:00:00.000Z",
+    "tasks":[
+      "Providing technical support",
+      "Imaging new Windows devices",
+      "Logging jobs for damaged devices",
+      "Ensuring IT is running smoothly",
+      "Acknowledging if there's a trend in incidents",
+      "Installing software",
+      "Troubleshooting devices",
+      "Rolling out laptops to new year groups",
+      "AV troubleshooting",
+      "Assisted with the move to remote learning"
+      ],
+    "slug": "perthcollege",
+    "content": "Working at Perth College was very rewarding, being able to help students as well as staff with their ICT related problems as well as teach them how to use the technology. I would have loved to stay there but I wanted to chase my career goals."
+  },
+  {
+    "title": "Information Alignment",
+    "jobTitle": "Developer / Analyst",
+    "dateStart": "2020-08-01T04:00:00.000Z",
+
+    "tasks":[
+      "Provide application support to clients.",
+      "Develop new features for the application using C# and ASP.NET.",
+      "Use of Angular and REACT frameworks.",
+      "Completing tasks in SQL as required, such as creating and improving new tables, views, stored procedures, ETLs.",
+      "Creating SRSS reports to meet client's needs while following design guidelines.",
+      "Writing documentation on how to use application and release notes.",
+      "Application testing.",
+      "Finding and addressing bugs in application.",
+      "Completing JIRA stories.",
+      "Creating quotes to meet client's needs.",
+      "Developing the application to meet client's needs."
+
+      ],
+    "slug": "inapl",
+    "content": "My first developer role, I have learnt so much a lot about working as a developer and analyst, I've had the opportunity to work on projects for clients and deliver them to their satisfaction."
+  }
+]

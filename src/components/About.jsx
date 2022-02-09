@@ -1,18 +1,19 @@
 import React from "react";
+import photo from './content/rachel.jpeg';
 
 function About() {
   return (
     <div className="about">
       <div class="container">
-        <div>
+        <div  class="row align-items-center my-5">
           <div class="col-lg-7">
             <img
-              class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
+              // class="img-fluid rounded mb-4 mb-lg-0"
+              src={photo}
               alt=""
             />
           </div>
-          <div>
+          <div class="col-lg-5">
             <h1 class="font-weight-light">About</h1>
             <p>
               <div class="justify-content-md-center">
@@ -44,8 +45,6 @@ function About() {
                 <ul>
                   <li><a href="https://www.ecu.edu.au/degrees/courses/bachelor-of-computer-science">Bachelor of Computer Science (Software Engineering)</a><i> in progress</i></li>
                 </ul>
-
-                <div id="like_button_container" data-commentid="2"></div>
               </div>
             </p>
           </div>

@@ -12,7 +12,8 @@ import {
   Blog,
   Posts,
   Post,
-  TestNode
+  Experience,
+  WorkExp
 } from "./components";
 
 ReactDOM.render(
@@ -22,7 +23,9 @@ ReactDOM.render(
       <Route path="/" element={<Home />} />
       <Route path="/about" element={<About />} />
       <Route path="/contact" element={<Contact />} />
-      <Route path="/testNode" element={<TestNode />} />
+      <Route path="/experience" element={<Experience /> }>
+        <Route path=":postSlug" element={<WorkExp />} />
+      </Route>
       <Route path="/blog" element={<Blog />}>
         <Route path="" element={<Posts />} />
         <Route path=":postSlug" element={<Post />} />
