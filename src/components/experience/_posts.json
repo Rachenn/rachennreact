@@ -1,6 +1,6 @@
 [
   {
-    "title": "QuickFlix",
+    "title": "Q**",
     "jobTitle": "Membership Services Officer",
     "dateStart": "2012-08-01T04:00:00.000Z",
     "dateEnd": "2013-04-01T04:00:00.000Z",
@@ -13,11 +13,11 @@
       "Communication",
       "Some administration duties",
       "Troubleshooting"],
-    "slug": "quickflix",
+    "slug": "q",
     "content": "This was my first experience providing tech support to users and helped me gain experience with customer service."
   },
   {
-    "title": "Metals X Limited",
+    "title": "M**",
     "jobTitle": "IT Support Officer",
     "dateStart": "2014-01-01T04:00:00.000Z",
     "dateEnd": "2014-06-01T04:00:00.000Z",
@@ -31,11 +31,11 @@
       "Handling back-up tapes",
       "Organizing server room"
       ],
-    "slug": "metalsx",
+    "slug": "m",
     "content": "This job gave me my first exposure to the mining industry, I was given the opportunity to fly out to mine sites and provide ICT support."
   },
   {
-    "title": "Truck Centre WA",
+    "title": "T**",
     "jobTitle": "IT Assistant",
     "dateStart": "2013-04-01T04:00:00.000Z",
     "dateEnd": "2013-10-01T04:00:00.000Z",
@@ -45,11 +45,11 @@
       "Replacing hardware in PCs",
       "Data-Entry"
       ],
-    "slug": "truckcentrewa",
+    "slug": "t",
     "content": "This was my first ICT support role which helped me get into the ICT industry."
   },
   {
-    "title": "Kinetic IT",
+    "title": "K**",
     "jobTitle": "Senior Service Desk Technician",
     "dateStart": "2014-06-01T04:00:00.000Z",
     "dateEnd": "2018-06-01T04:00:00.000Z",
@@ -73,11 +73,11 @@
       "Working on a 24/7 shift-based roster",
       "Being able to quickly adjust to new sites when being moved to new contracts"
       ],
-    "slug": "kineticit",
+    "slug": "k",
     "content": "Working at Kinetic IT gave me the opportunity to work on large and smaller service desks, I provided ICT support at; Department of Education, Landgate and BHP."
   },
   {
-    "title": "Perth College",
+    "title": "P**",
     "jobTitle": "ICT Support Officer",
     "dateStart": "2018-06-01T04:00:00.000Z",
     "dateEnd": "2020-08-01T04:00:00.000Z",
@@ -93,11 +93,11 @@
       "AV troubleshooting",
       "Assisted with the move to remote learning"
       ],
-    "slug": "perthcollege",
+    "slug": "p",
     "content": "Working at Perth College was very rewarding, being able to help students as well as staff with their ICT related problems as well as teach them how to use the technology. I would have loved to stay there but I wanted to chase my career goals."
   },
   {
-    "title": "Information Alignment",
+    "title": "I**",
     "jobTitle": "Developer / Analyst",
     "dateStart": "2020-08-01T04:00:00.000Z",
 
@@ -115,7 +115,7 @@
       "Developing the application to meet client's needs."
 
       ],
-    "slug": "inapl",
+    "slug": "i",
     "content": "My first developer role, I have learnt so much a lot about working as a developer and analyst, I've had the opportunity to work on projects for clients and deliver them to their satisfaction."
   }
 ]
